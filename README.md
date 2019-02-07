@@ -3,8 +3,14 @@ I has successfully completed the online, non credit Specialization from Coursera
 These topic are following:
 
 ## 1.Number and Math
-#### >wdf
-#### >wdf
+#### Integer
+#### Float
+#### Addition
+#### Substraction
+#### Multiplication
+#### Division
+#### Exponentiation
+#### 
 ## 2.Variable and datatype
 ## 3.Boolean and Conditional logic
 ## 4.Looping Concept
