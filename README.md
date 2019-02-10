@@ -16,3 +16,5 @@ These topic are following:
 ## 12.Modules
 ## 13.HTTP request with pyhton
 ## 14.Object Oriented Programming
+## 15.Iterators & Generator
+## 16.Decorators
