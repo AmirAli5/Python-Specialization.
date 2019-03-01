@@ -20,3 +20,5 @@ These topic are following:
 ## 16.Decorators
 ## 17.Testing with Python
 ## 18.File I/O
+## 19.Working with CSV & Pickling
+## 20.Regular Expression
