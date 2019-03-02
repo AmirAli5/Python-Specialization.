@@ -1,6 +1,9 @@
 # Python Specialization 
 I has successfully completed the online, non credit Specialization from Coursera offered by University of Michigan.I also learn python from different sources like udemy, google developers and different website.I have cover both Basic and as well as OOP concept in pyhton and making different projects on pyhton.
 
+### My LinkedIn Profile:
+https://www.linkedin.com/in/amiralicheema/
+
 ### My Certificate of Python Specialization:
 https://drive.google.com/file/d/1BDu0Z4X3W_6PKQZQ0Kb23i7vs99pnGER/view
 
