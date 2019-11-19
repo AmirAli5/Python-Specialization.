@@ -1,19 +1,10 @@
 # Python Specialization 
-I has successfully completed the online, non credit Specialization from Coursera offered by University of Michigan.I also learn python from different sources like udemy, google developers and different website.I have cover both Basic and as well as OOP concept in pyhton and making different projects on pyhton.
+In this Repository, I upload my Python Code which I have done from the University of Michigan through Coursera. In this course, I have learned python basic as well as the Object-Oriented Programming concept.
 
-### My LinkedIn Profile:
-https://www.linkedin.com/in/amiralicheema/
-
-### My Certificate of Python Specialization:
+### My Certificate:
 https://drive.google.com/file/d/1BDu0Z4X3W_6PKQZQ0Kb23i7vs99pnGER/view
 
-### Sources which I learn python:
-1.	https://www.python.org/
-2.	https://developers.google.com/edu/python/
-3.	https://www.coursera.org/specializations/python
-4.	https://www.udemy.com/the-python-bible/
-
-### These topics which I have Covers in Python Specialization:
+### These are topics that I have Covers in Python:
 1.	Number and Math
 2.	Variable and datatype
 3.	Boolean and Conditional logic
@@ -23,11 +14,11 @@ https://drive.google.com/file/d/1BDu0Z4X3W_6PKQZQ0Kb23i7vs99pnGER/view
 7.	Dictionaries & Dictionaries Comprehensions
 8.	Tuple and Sets
 9.	Functions
-10.	Lambdas & Built in Function
+10.	Lambdas & Built-in Function
 11.	Debugging and Error Handling
 12.	Modules
 13.	HTTP request with Python
-14.	Object Oriented Programming
+14.	Object-Oriented Programming
 15.	Iterators & Generator
 16.	Decorators
 17.	Testing with Python
